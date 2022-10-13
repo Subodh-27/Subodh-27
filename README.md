@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/subodh awate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subodh awate" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/subodh-awate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subodh awate" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/subodh_0409" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="subodh_0409" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/subodh_awate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="subodh_awate" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/subodh-learn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="subodh-learn" height="30" width="40" /></a>
