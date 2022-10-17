@@ -3,7 +3,7 @@
 
 - 🤝 I’m looking for help with **Front End Technologies**
 
-- 📫 How to reach me **sbhawt@gmail.com**
+- 📫 How to reach me **awatesubodh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
