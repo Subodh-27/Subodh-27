@@ -1,7 +1,7 @@
 <h1 align="center">Hello, My name is Subodh Awate</h1>
 <h3 align="center">Front End Web Developer from Pune, India.</h3>
 
-- 🤝 I’m love to work with **Front End Technologies**
+- 🤝 I love to work with **Front End Technologies**
 
 - 📫 How to reach me **awatesubodh@gmail.com**
 
