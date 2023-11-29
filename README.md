@@ -1,5 +1,5 @@
 <h1 align="center">Hello, My name is Subodh Awate</h1>
-<h3 align="center">Web Developer from Pune, India.</h3>
+<h3 align="center">Web Developer from India.</h3>
 
 - 🤝 I love to work on **Web Development**
 
