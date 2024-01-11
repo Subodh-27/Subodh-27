@@ -3,7 +3,7 @@
 
 - 🤝 I love to work on **Web Development**
 
-- 📫 How to reach me **awatesubodh@gmail.com**
+- 📫 How to reach me **sbhawt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
